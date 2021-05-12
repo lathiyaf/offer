@@ -29,7 +29,7 @@
     "@babel/core": "^7.5.5",
     "@shopify/app-bridge": "^1.6.7",
     "babel-loader": "^8.0.6",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "chartjs-plugin-zoom": "^0.7.4",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.26",
